@@ -12,6 +12,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
+  - name: saharsh.xyz
+    url: https://saharsh.xyz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
