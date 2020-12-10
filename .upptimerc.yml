@@ -4,16 +4,12 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: saharsh.xyz
+  - name: site
     url: https://saharsh.xyz
+  - name: v1
+    url: https://v1.saharsh.xyz
+  - name: analytics
+    url: https://analytics.saharsh.xyz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
