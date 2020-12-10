@@ -13,9 +13,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-#   cname: uptime.saharsh.xyz
+  cname: uptime.saharsh.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime
+#   baseUrl: /uptime
   logoUrl: https://unavatar.now.sh/github/saharshxyz
   name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
