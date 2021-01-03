@@ -76,19 +76,19 @@
     "url": "https://brevis.expresscode29.repl.co/ping",
     "icon": "https://favicons.githubusercontent.com/brevis.expresscode29.repl.co",
     "slug": "brevis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1752,
-    "timeDay": 5313,
-    "timeWeek": 2150,
-    "timeMonth": 1752,
-    "timeYear": 1752,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 2760,
+    "timeDay": 7821,
+    "timeWeek": 3337,
+    "timeMonth": 2760,
+    "timeYear": 2760,
     "dailyMinutesDown": {
-      "2021-01-03": 0
+      "2021-01-03": 55
     }
   }
 ]
