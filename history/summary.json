@@ -22,10 +22,10 @@
     "url": "https://v1.saharsh.xyz",
     "icon": "https://favicons.githubusercontent.com/v1.saharsh.xyz",
     "slug": "v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
@@ -33,16 +33,18 @@
     "timeWeek": 183,
     "timeMonth": 229,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-23": 1
+    }
   },
   {
     "name": "analytics",
     "url": "https://analytics.saharsh.xyz",
     "icon": "https://favicons.githubusercontent.com/analytics.saharsh.xyz",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 193,
     "timeMonth": 213,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-23": 0
+    }
   },
   {
     "name": "vc",
@@ -59,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/saharsh.vc",
     "slug": "vc",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 292,
     "timeDay": 174,
     "timeWeek": 269,
