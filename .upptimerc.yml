@@ -12,8 +12,6 @@ sites:
     url: https://analytics.saharsh.xyz
   - name: vc
     url: https://saharsh.vc
-  - name: brevis
-    url: https://brevis.expresscode29.repl.co/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
