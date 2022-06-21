@@ -58,17 +58,17 @@
     "url": "https://saharsh.vc",
     "icon": "https://favicons.githubusercontent.com/saharsh.vc",
     "slug": "vc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 594,
-    "timeWeek": 2968,
-    "timeMonth": 1272,
-    "timeYear": 400,
+    "time": 374,
+    "timeDay": 544,
+    "timeWeek": 2803,
+    "timeMonth": 1253,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   }
 ]
