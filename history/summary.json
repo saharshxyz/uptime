@@ -22,7 +22,7 @@
     "url": "https://v1.saharsh.xyz",
     "icon": "https://favicons.githubusercontent.com/v1.saharsh.xyz",
     "slug": "v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,7 +40,7 @@
     "url": "https://analytics.saharsh.xyz",
     "icon": "https://favicons.githubusercontent.com/analytics.saharsh.xyz",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 442,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1048,
+    "timeMonth": 1141,
     "timeYear": 514,
     "dailyMinutesDown": {}
   }
